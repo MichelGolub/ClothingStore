@@ -1,0 +1,12 @@
+D:\Nure\3-2\курсач\BackendPart\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Nure\3-2\курсач\BackendPart\Domain\bin\Debug\net5.0\Domain.dll
+D:\Nure\3-2\курсач\BackendPart\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Nure\3-2\курсач\BackendPart\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.dll
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Nure\3-2\курсач\BackendPart\Domain\obj\Debug\net5.0\Domain.pdb
