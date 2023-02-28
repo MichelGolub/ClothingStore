@@ -1,0 +1,17 @@
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Application.dll
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Application.pdb
+D:\Nure\3-2\курсач\BackendPart\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\Nure\3-2\курсач\BackendPart\Persistence\obj\Debug\net5.0\Persistence.pdb
