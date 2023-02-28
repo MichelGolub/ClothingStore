@@ -1,0 +1,15 @@
+D:\Nure\3-2\курсач\BackendPart\Identity\bin\Debug\net5.0\Identity.deps.json
+D:\Nure\3-2\курсач\BackendPart\Identity\bin\Debug\net5.0\Identity.runtimeconfig.json
+D:\Nure\3-2\курсач\BackendPart\Identity\bin\Debug\net5.0\Identity.runtimeconfig.dev.json
+D:\Nure\3-2\курсач\BackendPart\Identity\bin\Debug\net5.0\Identity.dll
+D:\Nure\3-2\курсач\BackendPart\Identity\bin\Debug\net5.0\ref\Identity.dll
+D:\Nure\3-2\курсач\BackendPart\Identity\bin\Debug\net5.0\Identity.pdb
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.csproj.AssemblyReference.cache
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.AssemblyInfoInputs.cache
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.AssemblyInfo.cs
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.csproj.CoreCompileInputs.cache
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.dll
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\ref\Identity.dll
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.pdb
+D:\Nure\3-2\курсач\BackendPart\Identity\obj\Debug\net5.0\Identity.genruntimeconfig.cache
