@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manager Helper</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in">Log in</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="clear_list">Clear</string>
+    <string name="invalid_role">Your role does not have access</string>
+    <string name="invalid_credentials">Invalid login or password</string>
+</resources>

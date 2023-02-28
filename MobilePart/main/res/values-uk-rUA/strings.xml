@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Помічник менеджера</string>
+    <string name="log_out">Вийти</string>
+    <string name="log_in">Увійти</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="clear_list">Очистити</string>
+    <string name="invalid_role">Немає необхідної ролі для доступу</string>
+    <string name="invalid_credentials">Неправильний логін або пароль</string>
+</resources>

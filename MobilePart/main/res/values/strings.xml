@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobilePart</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in">Log in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="clear_list">clear</string>
+    <string name="invalid_role">invalid role</string>
+    <string name="invalid_credentials">invalid credentials</string>>
+</resources>
